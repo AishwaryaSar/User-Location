@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sampleLocationPuck</string>
+    <string name="mapbox_access_token">MAPBOX_PUBLIC_ACCESS_TOKEN</string>
+</resources>
