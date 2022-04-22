@@ -1,4 +1,5 @@
 # User-Location
+The master branch of this project contains a reproducible application that can capture and display the current user location. This has been entirely built using Mapbox Android Maps SDK
 
 Pre - requisites 
 
